@@ -21,7 +21,7 @@
 
 ## 📸 Screenshot
 
-![Form Screenshot](screenshot1.png)
+![Form Screenshot](assests/screenshot1.png)
 
 ## 🚀 How to Run
 
